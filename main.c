@@ -1,12 +1,6 @@
 #pragma warning(disable:4996)    
 #include <stdio.h> 
 
-//Assignment 3
-//Austin Chirgwin
-//ENGR 19700
-//Monday, September 16, 2019
-//This program prints specific characters within a user-entered string
-
 int main(void)
 {
 	char UserInput[10];
